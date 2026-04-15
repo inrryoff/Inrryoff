@@ -7,8 +7,7 @@ Desenvolvedor apaixonado por extrair a performance máxima do Android através d
 ### 📦 [BuSy](https://github.com/inrryoff/BuSy)
 O substituto definitivo para o BusyBox no Android. 
 - **Systemless & Seguro:** Montagem via Magic Mount.
-- **Universal:** Suporte para arm64, arm, x86.
-- **Diferencial:** Compilado com suporte a máscaras de 8 bits para `taskset` (essencial para Helio G80/G85).
+- **Universal:** Suporte para arm64, arm, x86_64, x86.
 
 ### 🎮 [GameHub PRO-X](https://github.com/inrryoff/GameHub-PRO-X.V3)
 Orquestrador de performance para jogos (focado em MTK Helio G85).
