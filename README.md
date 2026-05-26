@@ -17,8 +17,8 @@
 
 ### 📦 [BuSy](https://github.com/inrryoff/BuSy)
 O substituto definitivo para o BusyBox no Android. 
-- **Systemless & Seguro:** Montagem via Magic Mount ou Meta OverlayFS.
-- **Universal:** Suporte para arm64, arm, x86_64, x86.
+- 🔹 **Systemless & Seguro:** Montagem via Magic Mount ou Meta OverlayFS.
+- 🔹 **Universal:** Suporte para arm64, arm, x86_64, x86.
 
 ---
 
