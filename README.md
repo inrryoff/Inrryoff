@@ -2,6 +2,11 @@
 
 Desenvolvedor apaixonado por extrair a performance máxima do Android através de módulos Magisk e Shell Script de baixo nível. 🚀
 
+![KernelSU](https://img.shields.io/badge/KernelSU-Module-FF4B4B?style=for-the-badge)
+![Magisk Module](https://img.shields.io/badge/Magisk-Module-brightgreen?style=for-the-badge&logo=magisk)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ## 🛠️ Meus Projetos Principais
 
 ### 📦 [BuSy](https://github.com/inrryoff/BuSy)
@@ -33,6 +38,9 @@ Um script shell para ter acesso root + o bash do termux (alternativa ao [tsu](ht
 
 ### [My-Custom-Termux](https://github.com/inrryoff/termux-app)
 Meu termux customizado para aguentar o tranco do [NeonX](https://github.com/inrryoff/NeonX).
+
+### [NeonX](https://github.com/inrryoff/NeonX)
+Neonx um projeto feito para resolver um problema do lolcat que virou algo completamente novo
 
 ---
 
