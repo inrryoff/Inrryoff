@@ -25,7 +25,6 @@ O substituto definitivo para o BusyBox no Android.
 
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/BuSy?label=version&logo=github)](https://github.com/inrryoff/BuSy/releases/latest)
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
-![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/BuSy/total)
 
 ---
 
