@@ -29,15 +29,6 @@ O substituto definitivo para o BusyBox no Android.
 
 ---
 
-### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
-Props que todo usuário de android root deveria usar.
-
-[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
-[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
-![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
-
----
-
 ### 🎮 [GameHub PRO-X](https://github.com/inrryoff/GameHub-PRO-X)
 ```text
 📦 GameHub PRO-X (O Orquestrador)
@@ -54,15 +45,6 @@ Props que todo usuário de android root deveria usar.
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/GameHub-PRO-X?label=version&logo=github)](https://github.com/inrryoff/GameHub-PRO-X/releases/latest)
 [![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/GameHub-PRO-X/main/LICENSE)
 ![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/GameHub-PRO-X/total)
-
----
-
-### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
-Props que todo usuário de android root deveria usar.
-
-[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
-[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
-![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
 
 ---
 
@@ -89,15 +71,6 @@ Foco em melhorar o uso da **GPU** mali G52 habilitando o boost da **GPU** govern
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/GPUTboost_G24?label=version&logo=github)](https://github.com/inrryoff/GPUTboost_G24/releases/latest)
 [![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/GPUTboost_G24/main/LICENSE)
 ![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/GPUTboost_G24/total)
-
----
-
-### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
-Props que todo usuário de android root deveria usar.
-
-[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
-[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
-![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
 
 ---
 
