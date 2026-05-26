@@ -31,9 +31,9 @@ O substituto definitivo para o BusyBox no Android.
     └── ✨ Best_props (Ajustes)
 ```
   
-- Detecção inteligente de Renderer (Vulkan/OpenGL).
-- Priorização de CPU/IO via `chrt` e `renice`.
-- Modos de resolução adaptáveis (720p até 240p).
+- 🔹 Detecção inteligente de Renderer (Vulkan/OpenGL).
+- 🔹 Priorização de CPU/IO via `chrt` e `renice`.
+- 🔹 Modos de resolução adaptáveis (720p até 240p).
 
 ---
 
@@ -69,14 +69,14 @@ NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RG
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** Python, Shell Script (sh/ash/bash), C.
-- **Ambientes:** Magisk, KernelSU, Kernel Tweaks, Android CLI.
-- **Foco:** Dispositivos MediaTek e otimização de sistemas de entrada (Por vontade propia).
+- 🔹 **Linguagens:** Python, Shell Script (sh/ash/bash), C.
+- 🔹 **Ambientes:** Magisk, KernelSU, Kernel Tweaks, Android CLI.
+- 🔹 **Foco:** Dispositivos MediaTek e otimização de sistemas de entrada (Por vontade propia).
 
 ## 📫 Como me encontrar
-- **💬 Vamos trocar uma ideia?** Me chama no Telegram se quiser trocar uma ideia sobre otimização, Magisk ou compartilhar conhecimento
-- **GitHub:** [Inrryoff](https://github.com/inrryoff)
-- **Telegram:** [Irryoff](https://t.me/Inrryoff)
+- 🔹 **💬 Vamos trocar uma ideia?** Me chama no Telegram se quiser trocar uma ideia sobre otimização, Magisk ou compartilhar conhecimento
+- 🔹 **GitHub:** [Inrryoff](https://github.com/inrryoff)
+- 🔹 **Telegram:** [Irryoff](https://t.me/Inrryoff)
 
 ---
 
