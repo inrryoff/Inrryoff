@@ -6,10 +6,13 @@
     Desenvolvedor apaixonado por extrair a performance máxima do Android através de módulos Magisk e Shell Script de baixo nível. 🚀
 </p>
 
-![KernelSU](https://img.shields.io/badge/KernelSU-Module-FF4B4B?style=for-the-badge)
-![Magisk Module](https://img.shields.io/badge/Magisk-Module-brightgreen?style=for-the-badge&logo=magisk)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Magisk-00A3E0?style=for-the-badge&logo=magisk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Puro-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 ---
 
@@ -64,6 +67,8 @@ Meu termux customizado para aguentar o tranco do [NeonX](https://github.com/inrr
 
 ### 🌈 [NeonX](https://github.com/inrryoff/Neon)
 NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RGB e alto desempenho
+
+[![Todos os Meus Projetos](https://img.shields.io/badge/Todos_os_Meus_Projetos-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=grey&color=blue)](https://github.com/inrryoff?tab=repositories)
 
 ### ✨ Dê uma estrela se gostou! ✨
 ---
