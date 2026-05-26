@@ -23,6 +23,19 @@ O substituto definitivo para o BusyBox no Android.
 - **Systemless & Seguro:** Montagem via Magic Mount ou Meta OverlayFS.
 - **Universal:** Suporte para arm64, arm, x86_64, x86.
 
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/BuSy?label=version&logo=github)](https://github.com/inrryoff/BuSy/releases/latest)
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/BuSy/total)
+
+---
+
+### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
+Props que todo usuário de android root deveria usar.
+
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
+
 ---
 
 ### 🎮 [GameHub PRO-X](https://github.com/inrryoff/GameHub-PRO-X)
@@ -38,35 +51,81 @@ O substituto definitivo para o BusyBox no Android.
 - Priorização de CPU/IO via `chrt` e `renice`.
 - Modos de resolução adaptáveis (720p até 240p).
 
----
-
-### ⚡ [ZramTG24](https://github.com/inrryoff/ZramTG24)
-Ajuste fino de swap e compressão de memória para dispositivos com RAM limitada.
-
----
-
-### 🚀 [GPUTboostG24](https://github.com/inrryoff/GPUTboost_G24)
-Foco em melhorar o uso da **GPU** mali G52 habilitando o boost da **GPU** governor performance, travas para clock `max > min`.
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/GameHub-PRO-X?label=version&logo=github)](https://github.com/inrryoff/GameHub-PRO-X/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/GameHub-PRO-X/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/GameHub-PRO-X/total)
 
 ---
 
 ### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
 Props que todo usuário de android root deveria usar.
 
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
+
+---
+
+### ⚡ [ZramTG24](https://github.com/inrryoff/ZramTG24)
+Ajuste fino de swap e compressão de memória para dispositivos com RAM limitada.
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/ZramTG24?label=version&logo=github)](https://github.com/inrryoff/ZramTG24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/ZramTG24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/ZramTG24/total)
+
+---
+
+### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
+Props que todo usuário de android root deveria usar.
+
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
+
+---
+
+### 🚀 [GPUTboostG24](https://github.com/inrryoff/GPUTboost_G24)
+Foco em melhorar o uso da **GPU** mali G52 habilitando o boost da **GPU** governor performance, travas para clock `max > min`.
+
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/GPUTboost_G24?label=version&logo=github)](https://github.com/inrryoff/GPUTboost_G24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/GPUTboost_G24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/GPUTboost_G24/total)
+
+---
+
+### 📱 [Best_props](https://github.com/inrryoff/Best_props-G24)
+Props que todo usuário de android root deveria usar.
+
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/Best_props-G24?label=version&logo=github)](https://github.com/inrryoff/Best_props-G24/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github.com/inrryoff/Best_props-G24/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/Best_props-G24/total)
+
 ---
 
 ### 🫚 [Susdu](https://github.com/inrryoff/susdu)
 Um script shell para ter acesso root + o bash do termux (alternativa ao [tsu](https://github.com/cswl/tsu)).
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/susdu?label=version&logo=github)](https://github.com/inrryoff/susdu/releases/latest)
+[![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github/inrryoff/susdu/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/susdu/total)
 
 ---
 
 ### 👾 [My-Custom-Termux](https://github.com/inrryoff/termux-app)
 Meu termux customizado para aguentar o tranco do [NeonX](https://github.com/inrryoff/NeonX).
 
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/termux-app?label=version&logo=github)](https://github.com/inrryoff/NeonX/releases/latest)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/termux-app/total)
+
 ---
 
 ### 🌈 [NeonX](https://github.com/inrryoff/Neon)
 NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RGB e alto desempenho
+
+[![Latest Release](https://img.shields.io/github/v/release/inrryoff/NeonX?label=version&logo=github)](https://github.com/inrryoff/NeonX/releases/latest)
+[![Licença](https://img.shields.io/badge/license-NeonX%20Custom-red)](https://github/inrryoff/NeonX/main/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/NeonX/total)
+
+---
 
 [![Todos os Meus Projetos](https://img.shields.io/badge/Todos_os_Meus_Projetos-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=grey&color=blue)](https://github.com/inrryoff?tab=repositories)
 
