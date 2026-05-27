@@ -122,7 +122,7 @@ NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RG
 
 **Meus princípios:**
 - 🧠 Sem Garbage Collector.
-- 💪 Respeito pelo hardware!.
+- 💪 Respeito pelo hardware.
 - 🔧 Sem desperdício de bytes.
 - 🆓 Código Grátis e livre para todos.
 
