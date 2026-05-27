@@ -88,7 +88,7 @@ Meu termux customizado para aguentar o tranco do [NeonX](https://github.com/inrr
 
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/termux-app?label=version&logo=github)](https://github.com/inrryoff/NeonX/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/termux-app)
+![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/termux-app/total)
 
 ---
 
