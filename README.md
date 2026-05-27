@@ -75,6 +75,7 @@ Foco em melhorar o uso da **GPU** mali G52 habilitando o boost da **GPU** govern
 
 ### 🫚 [Susdu](https://github.com/inrryoff/susdu)
 Um script shell para ter acesso root + o bash do termux (alternativa ao [tsu](https://github.com/cswl/tsu)).
+
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/susdu?label=version&logo=github)](https://github.com/inrryoff/susdu/releases/latest)
 [![Licença](https://img.shields.io/badge/license-%20MIT-green)](https://github/inrryoff/susdu/main/LICENSE)
 ![GitHub all releases](https://img.shields.io/github/downloads/inrryoff/susdu/total)
