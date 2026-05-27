@@ -119,6 +119,9 @@ NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RG
 ---
 
 ## 🙋🏻‍♂️ Sobre mim
-Eu sou um programador intermediário **(Augmented Developer)**
-tenho 18 anos atualmente, estudo programação por paixão gosto de criar essas ferramentas tanto que fiz o **NeonX** para resolver um problema besta com o lolcat e acabou que eu fiz algo totalmente diferente do lolcat original mas pensa hoje em dia os devs nao buscar escovar bits eu não gosto da ideia de uma linguagem interpretada roubando preciosos mbs da minha memoria ram e um **Garbage Collector** parando a execução para limpar a ram.
-Se você é um dev assim como eu olhe com epatia para a maquina que tem em mãos se todo mundo pensasse em otimizar o codigo em vez de tacar tudo nas costas do Hardware teriamos sistemas tão rapido quanto piscar.
+
+Sou um programador intermediário, que se define como **Augmented Developer**. Tenho 18 anos, estudo programação por paixão e adoro criar ferramentas rápidas. Foi assim que nasceu o **NeonX**: uma tentativa de resolver um problema besta com o **lolcat** (original em Ruby) que acabou se transformando em algo completamente diferente e, ouso dizer, melhor.
+
+O que me incomoda é que hoje muitos devs não se preocupam mais em "escovar bits". Eu não gosto da ideia de uma linguagem interpretada roubando preciosos MB da minha memória RAM, nem de um **Garbage Collector** parando a execução só para limpar a bagunça.
+
+Se você é um dev, olhe com **empatia** para a máquina que tem nas mãos. Se todo mundo pensasse em otimizar o código — em vez de jogar tudo nas costas do hardware — teríamos sistemas rápidos como um piscar de olhos.
