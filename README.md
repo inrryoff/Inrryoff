@@ -94,6 +94,7 @@ Meu termux customizado para aguentar o tranco do [NeonX](https://github.com/inrr
 
 ### 🌈 [NeonX](https://github.com/inrryoff/NeonX)
 NeonX: A evolução definitiva do lolcat para terminais modernos, com shaders RGB e alto desempenho
+- **[Teste Já](https://neonx-web.netlify.app/)**
 
 [![Latest Release](https://img.shields.io/github/v/release/inrryoff/NeonX?label=version&logo=github)](https://github.com/inrryoff/NeonX/releases/latest)
 [![Licença](https://img.shields.io/badge/license-NeonX%20Custom-red)](https://github/inrryoff/NeonX/main/LICENSE)
